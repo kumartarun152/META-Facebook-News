@@ -42,6 +42,7 @@
   .head-menu {
     display: flex;
     align-items: center;
+    font-size: 25px;
     width: 100%;
   }
   
@@ -148,7 +149,7 @@
   }
   
   .megaSec >h1{
-    color: #666666;
+    color: #161515;
     font-size: 48px;
     font-weight: 500;
     margin: 32px 0 0 0;
@@ -157,7 +158,7 @@
   }
   
   .megaSec > h3 {
-    color: #666666;
+    color: #161515;
     font-size: 24px;
     font-weight: 600;
     letter-spacing: 6px;
@@ -386,10 +387,10 @@
   .foot-social-bg{
     color: white;
     background-color: #222222;
-    width: 24px;
-    height: 24px;
-    font-size: 14px;
-    border-radius: 50%;
+    width: 28px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 20%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -491,6 +492,7 @@
   
   .copyR>form>select>option{
     text-align: left;
+    background-color: aqua;
     
   }
   
